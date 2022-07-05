@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SkillsAccount.DAL\SkillsAccount.DAL.csproj" />
+    <ProjectReference Include="..\SkillsAccount.Entities\SkillsAccount.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
